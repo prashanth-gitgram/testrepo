@@ -1,4 +1,4 @@
-
+# this is a Tic Tac Toe game
 
 def display_board(list1):
     print(list1[1],'|',list1[2],'|',list1[3])
